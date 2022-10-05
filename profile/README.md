@@ -6,6 +6,6 @@ Developers come for the high deliverability, and stay because our intuitive API 
 
 For more info, visit our:
 
-[Developers site 💻](https://developers.mailersend.com/) - for API reference
-[Knowledge base ❓](https://www.mailersend.com/help) - for guides on how to use MailerSend
-[Contact support 📨](https://www.mailersend.com/contact-us) - if you require more assistance
+- [Developers site 💻](https://developers.mailersend.com/) - for API reference
+- [Knowledge base ❓](https://www.mailersend.com/help) - for guides on how to use MailerSend
+- [Contact support 📨](https://www.mailersend.com/contact-us) - if you require more assistance
